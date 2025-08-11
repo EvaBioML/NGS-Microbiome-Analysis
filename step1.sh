@@ -1,7 +1,5 @@
 conda activate qiime2-2022.8
 
-#��ʽվ�
-
 filename="name"
 filepath="/path/${filename}/"
 manifest="manifest.txt"
@@ -24,4 +22,3 @@ echo "Finish demux.qzv"
 
 
 
-#�����{�� ". artifacts.sh"
